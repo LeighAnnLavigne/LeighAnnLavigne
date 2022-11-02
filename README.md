@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeighAnnLavigne
-- 👀 I’m interested in dying
-- 🌱 I’m currently learning how to die
+- 👀 In progress...
+- 🌱
 
 <!---
 LeighAnnLavigne/LeighAnnLavigne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
